@@ -1,4 +1,4 @@
-#include "Jogo-do-Galo/Base.h"
+#include "Base.h"
 
  int main(void)  {
   char tabuleiro[NUMERO_LINHAS][NUMERO_COLUNAS];
