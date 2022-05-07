@@ -1,0 +1,8 @@
+MENU DO JOGO
+
+J - Jogador vs Jogador
+C - Jogador vs Computador
+X - Computador vs Computador
+S - Sair
+
+Aguarde um momento...
